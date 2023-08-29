@@ -1,0 +1,54 @@
+{
+  "customer": [
+    
+    {
+      "title": "3",
+      "firstName": "3",
+      "midleName": "3",
+      "lastName": "3",
+      "fatherName": "3",
+      "mobileNumber": "3",
+      "emailId": "2d@e",
+      "adharNumber": "3",
+      "dob": "2023-08-18",
+      "residentialLine1": "3",
+      "residentialLine2": "3",
+      "residentialState": "3",
+      "residentialPincoe": "3",
+      "permanentLine1": "3",
+      "permanentLine2": "3",
+      "permanentLandmark": "3",
+      "permanentState": "3",
+      "permanentPincode": "3",
+      "occupationType": "3",
+      "sourceOfIncome": "3",
+      "netBankingBool": true,
+      "id": 2
+    },
+    {
+      "title": "3",
+      "firstName": "3",
+      "middleName": "3",
+      "lastName": "3",
+      "fatherName": "3",
+      "mobileNumber": "3",
+      "emailId": "2d@e",
+      "adharNumber": "3",
+      "dob": "2023-08-18",
+      "residentialLine1": "3",
+      "residentialLine2": "3",
+      "residentialState": "3",
+      "residentialPincoe": "3",
+      "permanentLine1": "3",
+      "permanentLine2": "3",
+      "permanentLandmark": "3",
+      "permanentState": "3",
+      "permanentPincode": "3",
+      "occupationType": "3",
+      "sourceOfIncome": "3",
+      "grossAnnualIncome": "3",
+      "netBankingBool": true,
+      "id": 3
+    }
+  ]
+}
